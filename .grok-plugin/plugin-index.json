@@ -427,8 +427,8 @@
       }
     },
     "logospell": {
-      "sha": "37312cb143497165d14cde668294a23bdcb0aa6c",
-      "version": "5.1.0",
+      "sha": "45d1b4814364733a45798e98bafe2b030ad87d3e",
+      "version": "5.1.1",
       "components": {
         "mcpServers": [
           {
