@@ -410,7 +410,7 @@
     },
     {
       "name": "logospell",
-      "description": "AI image generation for your agent (MCP server). One call returns a cohesive image set, a transparent-background set, or a single illustration; sets can be resized, re-framed, or exported as platform icons.",
+      "description": "AI image generation for your agent (MCP server). One call returns a cohesive image set, a character set, a transparent-background set, or a single illustration; sets can be extended, resized, re-framed, or exported as platform icons.",
       "category": "development",
       "source": {
         "source": "url",
